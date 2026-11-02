@@ -1,4 +1,4 @@
-# SecureScan – Android Document Scanner & PDF Manager
+# SecureScan â€“ Android Document Scanner & PDF Manager
 
 SecureScan is an Android application built with Kotlin and Jetpack Compose for secure document scanning, PDF management, OCR, digital signatures and QR code safety analysis.
 
@@ -30,9 +30,9 @@ SecureScan is an Android application built with Kotlin and Jetpack Compose for s
 
 ## Project Structure
 
-- `app/src/main/java/` – Application source code
-- `app/src/main/res/` – Android resources
-- `gradle/` – Gradle wrapper configuration
+- `app/src/main/java/` â€“ Application source code
+- `app/src/main/res/` â€“ Android resources
+- `gradle/` â€“ Gradle wrapper configuration
 
 ## Build Instructions
 
@@ -45,3 +45,32 @@ SecureScan is an Android application built with Kotlin and Jetpack Compose for s
 ## Disclaimer
 
 Developed as an academic and educational project for secure document management and Android application development.
+## ðŸ“¸ SecureScan Application Screenshots
+
+### Dashboard
+![SecureScan Dashboard](screenshots/Dashboard)
+
+### Extract Image
+![Extract Image](screenshots/Extract%20image)
+
+### PDF Size Management
+![Manage PDF Size](screenshots/Manage_size)
+
+### Merge PDF
+![Merge PDF](screenshots/Merge%20pdf)
+
+### Password Protection
+![PDF Password Protection](screenshots/Password_protection)
+
+### Split PDF
+![Split PDF](screenshots/Split%20pdf)
+
+### File Management
+![File Management](screenshots/files)
+
+### Application Options
+![Application Options](screenshots/option)
+
+## ðŸŽ¥ Application Demo
+
+[Watch SecureScan Demo](demo/WhatsApp%20Video%202026-11-02%20at%209.32.30%20PM.mp4)
